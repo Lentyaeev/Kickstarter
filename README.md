@@ -1,1 +1,1 @@
-[Demo](lentyaeev.github.io/Kickstarter)
+[Demo](https://lentyaeev.github.io/Kickstarter)
